@@ -2,4 +2,5 @@
 
 ## Contents
 
-* OpenSCAD model for https://hackaday.io/project/10543-sound-based-weather-station -- CC-BY-SA 
+* [OpenSCAD model](sound-based-ws-model.scad
+) for https://hackaday.io/project/10543-sound-based-weather-station -- these early models are released under CC-BY-SA-**NC**  
